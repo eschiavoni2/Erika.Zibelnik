@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/erika.zibelnik/static/css/main.e662feb7.css",
+    "main.js": "/erika.zibelnik/static/js/main.251bd951.js",
+    "static/media/video.mp4": "/erika.zibelnik/static/media/video.ddd870b21cd0a7b5d7f6.mp4",
+    "static/media/profile-picture.png": "/erika.zibelnik/static/media/profile-picture.56f18433adf60f6e6260.png",
+    "static/media/Erika.Zibelnik.Resume.pdf": "/erika.zibelnik/static/media/Erika.Zibelnik.Resume.d30fca668b05af6267e9.pdf",
+    "static/media/Calendar.PNG": "/erika.zibelnik/static/media/Calendar.55cc7e28dc1846bce37f.PNG",
+    "static/media/budget.PNG": "/erika.zibelnik/static/media/budget.5d6eb33fafa700fc1f35.PNG",
+    "static/media/github.PNG": "/erika.zibelnik/static/media/github.f695e311673ad2fd6a44.PNG",
+    "index.html": "/erika.zibelnik/index.html",
+    "main.e662feb7.css.map": "/erika.zibelnik/static/css/main.e662feb7.css.map",
+    "main.251bd951.js.map": "/erika.zibelnik/static/js/main.251bd951.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e662feb7.css",
+    "static/js/main.251bd951.js"
+  ]
+}
