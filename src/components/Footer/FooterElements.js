@@ -29,6 +29,8 @@ export const FooterLinks = styled.div`
     margin: 0;
     padding: 10px;
     width: 100%;
+    display: flex;
+    justify-content: center;
   }
 `;
 
